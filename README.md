@@ -42,31 +42,18 @@ iOS 14.0.1
 
 ```json
 {
-
-  "publicKey": {
-
-    "allowCredentials": [
-
-      {
-
-        "id": "MwS/mCxaP4uSMnAlqvBvWQ89fV8=",
-
-        "type": "public-key"
-
-      }
-
-    ],
-
-    "challenge": "4ckX9OfgH5A6q78Qo7gbionyMgAvuNcha8Bcguu1ysk=",
-
-    "rpId": "demo.yubico.com",
-
-    "timeout": 90000,
-
-    "userVerification": "discouraged"
-
-  }
-
+    "publicKey": {
+        "allowCredentials": [
+            {
+                "id": "MwS/mCxaP4uSMnAlqvBvWQ89fV8=",
+                "type": "public-key"
+            }
+        ],
+        "challenge": "4ckX9OfgH5A6q78Qo7gbionyMgAvuNcha8Bcguu1ysk=",
+        "rpId": "demo.yubico.com",
+        "timeout": 90000,
+        "userVerification": "discouraged"
+    }
 }
 ```
 
