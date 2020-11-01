@@ -4,11 +4,11 @@ FIDO2
 
 iOS
 
-[iOS_Safari](.\iOS\iOS_Safari.md)
+iOS_Safari
 
 Windows
 
-[Windows_Firefox](.\Windows\Windows_Firefox.md)
+Windows_Firefox
 
 
 
