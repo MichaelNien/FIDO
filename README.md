@@ -22,4 +22,4 @@
 
 ### Android
 
-原生 Google Service 啟動 FIDO2
+原生 Google Play Services 啟動 FIDO2
