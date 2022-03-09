@@ -1,4 +1,4 @@
-# Yubi
+# Yubico
 
 YubiHSM2
 
