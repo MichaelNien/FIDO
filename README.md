@@ -28,4 +28,8 @@
 
 ## PassKey
 
-Multi-Device FIDO Credential
+
+
+## Mastercard Payment Passkey
+
+https://www.mastercard.com/global/en/personal/payment-passkeys.html
