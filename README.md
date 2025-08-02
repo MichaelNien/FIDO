@@ -30,6 +30,6 @@
 
 
 
-## Mastercard Payment Passkey
+## Mastercard Payment Passkeys
 
 https://www.mastercard.com/global/en/personal/payment-passkeys.html
