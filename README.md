@@ -32,4 +32,6 @@
 
 ## Mastercard Payment Passkeys
 
+[Click to Pay](https://src.mastercard.com/profile/coming-soon)
+
 https://www.mastercard.com/global/en/personal/payment-passkeys.html
